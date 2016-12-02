@@ -3,7 +3,9 @@ Scala programs from coursera functional programming
 
 ## 1. Recursions
    Pascal’s Triangle
+   
    Parentheses Balancing
+   
    Coin Change
    
 ## 2. Functional Sets
